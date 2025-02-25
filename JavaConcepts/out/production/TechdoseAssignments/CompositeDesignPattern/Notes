@@ -1,0 +1,6 @@
+composite design pattern comes in to picture when there is a tree like structure.
+in this design pattern, objects are called inside the object forming a tree like structure.
+
+example:
+
+employee system can have multiple hierarcies

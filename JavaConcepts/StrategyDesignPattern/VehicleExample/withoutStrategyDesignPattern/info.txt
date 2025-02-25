@@ -1,0 +1,3 @@
+if we see this example all the child classes are implementing their strategy and child classes offroad,passenger are doing the same kind of driving
+
+so to avoid duplicate, we can create a strategy in such a way that duplicate code is removed and can scale it to other strategies like sports,normal driving

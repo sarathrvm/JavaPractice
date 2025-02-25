@@ -1,0 +1,24 @@
+//Join:
+
+when we use join, other thread will wait for this thread to complete. if i use thread1.join, other thread will wait until this thread1 is finished.
+
+
+//SetPriority:
+
+if you set the priority, then the threads are scheduled based on the priority but this is not guaranteed.
+
+//Daemon Thread:
+
+if you set any thread as a daemon thread, then if all other threads are completed, this thread will stop abruptly without executing the next steps.
+eg: Garbage collector, auto save thread, logging thread etc
+
+
+//synchronized will work only when one object is trying to access a method from multiple threads.
+but when we have multiple objects trying to access multiple threads then this is of no use.
+
+
+we need to use locking mechanism to avoid this issue.
+
+Reetrant Lock.
+
+ReadWriteReetrant Lock: in this read lock will allow different objects/threads to acquire lock at the same time but writelock cannot be acquired when any of the thread is reading or writing.

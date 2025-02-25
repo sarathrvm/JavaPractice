@@ -1,0 +1,13 @@
+Concurrency can be achieved by 3 ways while doing DB transactions in distributed systems.
+
+if it is a single process with multiple threads, synchronized can work to avoid inconsistency.
+
+for distributed systems,
+
+1. using Set Transaction and rollback in case of any exceptions
+2.DB locking, use shared lock and Exclusive lock
+shared locking can be kept on multiple rows at the same time so that all will be having read only access
+Exclusive lock can be kept on only 1 row at a time and have write access.
+
+3.isolation level present
+

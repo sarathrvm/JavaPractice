@@ -1,0 +1,25 @@
+package com.javatechie.cloudmicroservices.controller;
+
+import com.javatechie.cloudmicroservices.dto.OrderResponseDTO;
+import com.javatechie.cloudmicroservices.service.RestaurantService;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.PathVariable;
+import org.springframework.web.bind.annotation.RestController;
+
+@RestController
+public class RestaurantController {
+
+    @Autowired
+    private RestaurantService service;
+
+    @GetMapping
+    public String greetingMessage() {
+        return service.greeting();
+    }
+
+    @GetMapping("/orders/status/{orderId}")
+    public OrderResponseDTO getOrder(@PathVariable String orderId) {
+        return service.getOrder(orderId);
+    }
+}

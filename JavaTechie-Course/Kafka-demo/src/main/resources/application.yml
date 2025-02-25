@@ -1,0 +1,27 @@
+server:
+  port: 9191
+
+
+#spring:
+#  kafka:
+#    producer:
+#      bootstrap-servers: localhost:9092
+#      key-serializer: org.apache.kafka.common.serialization.StringSerializer
+#      value-serializer: org.springframework.kafka.support.serializer.JsonSerializer
+
+logging:
+  level:
+    org:
+      springframework:
+        kafka: DEBUG
+
+    com:
+      fasterxml:
+        jackson: DEBUG
+
+
+#  logging.level.org.springframework.kafka=DEBUG
+#  logging.level.com.fasterxml.jackson=DEBUG
+
+topic:
+  name: kafka-publish-demo-event-1

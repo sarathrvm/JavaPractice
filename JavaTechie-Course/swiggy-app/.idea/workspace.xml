@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3c92ca30-3466-4fb3-b1fe-36ad24fae6c3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../HackerRank Java Problems/IfElse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HackerRank Java Problems/StdInAndStdOut.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaPractice/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaPractice/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaPractice/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaPractice/Songs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaPractice/SortSongObjects.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaPractice/untitled/src/CollectionFramework/Fruit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaPractice/untitled/src/CollectionFramework/IteratorsDemo/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaPractice/untitled/src/CollectionFramework/KeywordAnalyzer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaPractice/untitled/src/CollectionFramework/KeywordAnalyzerImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaPractice/untitled/src/CollectionFramework/KeywordAndFrequency.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaPractice/untitled/src/CollectionFramework/MapImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaPractice/untitled/src/CollectionFramework/QueueImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaPractice/untitled/src/CollectionFramework/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaPractice/untitled/src/Enum/DayEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaPractice/untitled/src/Enum/EnumImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaPractice/untitled/src/ExceptionHandling/CustomExceptionHandling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaPractice/untitled/src/MultiThreading/AtomicVariable/AtomicVariablesImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaPractice/untitled/src/MultiThreading/AtomicVariable/IncrementValues.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaPractice/untitled/src/MultiThreading/CompletableFuture/CompletableFutureImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaPractice/untitled/src/MultiThreading/MonitorLock/MonitorLockImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaPractice/untitled/src/MultiThreading/MonitorLock/MonitorLockMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaPractice/untitled/src/MultiThreading/MultiThreadingImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaPractice/untitled/src/MultiThreading/PriorityBlockingQueue/PriorityBlockingQueueImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaPractice/untitled/src/MultiThreading/ProducerConsumerProblemWIthQueue/ProducerConsumerQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaPractice/untitled/src/MultiThreading/ProducerConsumerProblemWIthQueue/ProducerConsumerQueueImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaPractice/untitled/src/MultiThreading/ProducerConsumerTask/ProducerConsumerImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaPractice/untitled/src/MultiThreading/ProducerConsumerTask/SharedResource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaPractice/untitled/src/MultiThreading/ReadWriteLock/ReadWriteLockImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaPractice/untitled/src/MultiThreading/ReadWriteLock/ReadWriteLockSharedResource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaPractice/untitled/src/MultiThreading/ReeterantLock/ReentrantLockImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaPractice/untitled/src/MultiThreading/ReeterantLock/SharedResourceReetrantLock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaPractice/untitled/src/MultiThreading/ThreadPoolExecutor/ThreadPoolExecutorCallable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaPractice/untitled/src/MultiThreading/ThreadPoolExecutor/ThreadPoolExecutorMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaPractice/untitled/src/singletonImplementation/Bird.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaPractice/untitled/src/singletonImplementation/Bus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaPractice/untitled/src/singletonImplementation/DoubleCheckedSynchronizedSingleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaPractice/untitled/src/singletonImplementation/EagerWayOfSingletonCreation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaPractice/untitled/src/singletonImplementation/ThreadSafeWithoutSynchronize.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaPractice/untitled/src/singletonImplementation/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaPractice/untitled/src/singletonImplementation/VehicleImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kafka-consumer-demo/src/main/java/com/javatechie/kafkaconsumer/Kafka_consumer_demo/config/KafkaConsumerConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kafka-consumer-demo/src/main/java/com/javatechie/kafkaconsumer/Kafka_consumer_demo/dto/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kafka-consumer-demo/src/main/java/com/javatechie/kafkaconsumer/Kafka_consumer_demo/service/KafkaConsumeService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kafka-consumer-demo/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kafka-demo/src/main/java/com/javatechie/kafkapublisher/Kafka_demo/config/KafkaConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kafka-demo/src/main/java/com/javatechie/kafkapublisher/Kafka_demo/controller/KafkaPublisherController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kafka-demo/src/main/java/com/javatechie/kafkapublisher/Kafka_demo/dto/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kafka-demo/src/main/java/com/javatechie/kafkapublisher/Kafka_demo/service/KafkaPublishService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kafka-demo/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringCloud-Microservices/order-service/src/main/java/com/javatechie/microservice/order_service/controller/OrderController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringCloud-Microservices/order-service/src/main/java/com/javatechie/microservice/order_service/entity/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringCloud-Microservices/order-service/src/main/java/com/javatechie/microservice/order_service/repo/OrderRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringCloud-Microservices/order-service/src/main/java/com/javatechie/microservice/order_service/service/OrderService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringCloud-Microservices/order-service/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringCloud-Microservices/payment-service/src/main/java/com/javatechie/cloudmicroservices/payment_service/config/OrderProcessingConsumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringCloud-Microservices/payment-service/src/main/java/com/javatechie/cloudmicroservices/payment_service/dto/OrderDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringCloud-Microservices/payment-service/src/main/java/com/javatechie/cloudmicroservices/payment_service/entity/Payment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringCloud-Microservices/payment-service/src/main/java/com/javatechie/cloudmicroservices/payment_service/repo/PaymentRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringCloud-Microservices/payment-service/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringCloud-Microservices/user-service/src/main/java/com/javatechie/microservice/user_service/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringCloud-Microservices/user-service/src/main/java/com/javatechie/microservice/user_service/entity/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringCloud-Microservices/user-service/src/main/java/com/javatechie/microservice/user_service/repo/UserRepo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringCloud-Microservices/user-service/src/main/java/com/javatechie/microservice/user_service/service/UserDetailsService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MicroservicesExample-AddressService/src/main/java/com/infybuzz/MicroservicesExample_AddressService/Controller/AddressController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MicroservicesExample-AddressService/src/main/java/com/infybuzz/MicroservicesExample_AddressService/Mapper/AddressDtoToEntityMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MicroservicesExample-AddressService/src/main/java/com/infybuzz/MicroservicesExample_AddressService/dto/AddressDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MicroservicesExample-AddressService/src/main/java/com/infybuzz/MicroservicesExample_AddressService/entity/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MicroservicesExample-AddressService/src/main/java/com/infybuzz/MicroservicesExample_AddressService/repo/AddressRepo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MicroservicesExample-AddressService/src/main/java/com/infybuzz/MicroservicesExample_AddressService/service/AddressService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MicroservicesExample-AddressService/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MicroservicesExample-AddressService/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Terraform/Terraform_2/terraform.tf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../microservices-example-student-service/src/main/java/com/infybuzz/microservices_example_student_service/appliacationconfig/FeignLoggingConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../microservices-example-student-service/src/main/java/com/infybuzz/microservices_example_student_service/controller/StudentController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../microservices-example-student-service/src/main/java/com/infybuzz/microservices_example_student_service/dto/AddressDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../microservices-example-student-service/src/main/java/com/infybuzz/microservices_example_student_service/dto/StudentDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../microservices-example-student-service/src/main/java/com/infybuzz/microservices_example_student_service/entity/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../microservices-example-student-service/src/main/java/com/infybuzz/microservices_example_student_service/feignclients/AddressFeignClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../microservices-example-student-service/src/main/java/com/infybuzz/microservices_example_student_service/repo/StudentRepo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../microservices-example-student-service/src/main/java/com/infybuzz/microservices_example_student_service/service/StudentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../microservices-example-student-service/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-actuator-practice/src/main/java/com/javatechie/spring_actuator_practice/Controller/EmployeeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-actuator-practice/src/main/java/com/javatechie/spring_actuator_practice/Dto/EmployeeDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-actuator-practice/src/main/java/com/javatechie/spring_actuator_practice/Service/EmployeeService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-profile-practice/src/main/java/com/javatechie/spring_profile_practice/controller/CustomerController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-profile-practice/src/main/java/com/javatechie/spring_profile_practice/dto/CustomerDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-profile-practice/src/main/java/com/javatechie/spring_profile_practice/entity/CustomerEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-profile-practice/src/main/java/com/javatechie/spring_profile_practice/repo/CustomerRepo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-profile-practice/src/main/java/com/javatechie/spring_profile_practice/service/CustomerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-security-practice/src/main/java/com/test/spring_security_practice/Config/SecurityConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-security-practice/src/main/java/com/test/spring_security_practice/Controller/testController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-security-practice/src/main/java/com/test/spring_security_practice/Role.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-security-practice/src/main/java/com/test/spring_security_practice/UserDetailsImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-security-practice/src/main/java/com/test/spring_security_practice/UserDetailsServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-security-practice/src/main/java/com/test/spring_security_practice/UserEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-security-practice/src/main/java/com/test/spring_security_practice/UserRepo.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="2tFACYX5D2iLkFKuHYZCmz7FXgm" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="openDirectoriesWithSingleClick" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="swiggy-microservice-application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="swiggy-microservice-application" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3c92ca30-3466-4fb3-b1fe-36ad24fae6c3" name="Changes" comment="" />
+      <created>1739937322662</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1739937322662</updated>
+    </task>
+    <servers />
+  </component>
+</project>

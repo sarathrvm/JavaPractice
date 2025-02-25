@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7658fbfe-a4e6-4b38-ae1f-6d2c27fcc531" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2f3RLZLIPvnitUioMPckEim4E6X" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="openDirectoriesWithSingleClick" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.CatalanNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CatalanNumber_Bionomial.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CountPrimes.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FindAllPrimes.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GCD.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LeetCode_136.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LeetCode_137.executor&quot;: &quot;Run&quot;,
+    &quot;Application.binarycoefficient.executor&quot;: &quot;Run&quot;,
+    &quot;Application.powerOfTwoNumbers.executor&quot;: &quot;Run&quot;,
+    &quot;Application.primeFactorization.executor&quot;: &quot;Run&quot;,
+    &quot;Application.primeorNot.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.problem_1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.problem_2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.problem_5.executor&quot;: &quot;Debug&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.CatalanNumber_Bionomial">
+    <configuration name="CatalanNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.gfg.jbdl66.MathAlgo.CatalanNumber" />
+      <module name="StriverDSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gfg.jbdl66.MathAlgo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CatalanNumber_Bionomial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.gfg.jbdl66.MathAlgo.CatalanNumber_Bionomial" />
+      <module name="StriverDSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gfg.jbdl66.MathAlgo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GCD" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.gfg.jbdl66.MathAlgo.GCD" />
+      <module name="StriverDSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gfg.jbdl66.MathAlgo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="binarycoefficient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.gfg.jbdl66.MathAlgo.binarycoefficient" />
+      <module name="StriverDSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gfg.jbdl66.MathAlgo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="powerOfTwoNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.gfg.jbdl66.MathAlgo.powerOfTwoNumbers" />
+      <module name="StriverDSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gfg.jbdl66.MathAlgo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CatalanNumber_Bionomial" />
+        <item itemvalue="Application.CatalanNumber" />
+        <item itemvalue="Application.powerOfTwoNumbers" />
+        <item itemvalue="Application.GCD" />
+        <item itemvalue="Application.binarycoefficient" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.9-corretto-17.0.9-4caba194b151-92e50af3" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7658fbfe-a4e6-4b38-ae1f-6d2c27fcc531" name="Changes" comment="" />
+      <created>1713027720383</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1713027720383</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/gfg/jbdl66/problem_2.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/gfg/jbdl66/problem_5.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/gfg/jbdl66/BitManipulation/LeetCode_136.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/gfg/jbdl66/BitManipulation/LeetCode_136.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/gfg/jbdl66/BitManipulation/LeetCode_137.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/gfg/jbdl66/BitManipulation/LeetCode_137.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/gfg/jbdl66/BitManipulation/LeetCode_137.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/gfg/jbdl66/BitManipulation/LeetCode_137.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/gfg/jbdl66/MathAlgo/primeorNot.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/gfg/jbdl66/MathAlgo/primeorNot.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/gfg/jbdl66/MathAlgo/FindAllPrimes.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/com/gfg/jbdl66/MathAlgo/primeorNot.java</url>
+          <line>17</line>
+          <properties class="com.gfg.jbdl66.MathAlgo.primeorNot" method="isPrime_BestCase">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
